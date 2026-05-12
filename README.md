@@ -21,42 +21,32 @@
 
 # Introducción
 
-La evolución del software cultural ha transformado profundamente la manera en la que las personas interactúan, se representan y participan dentro de los entornos digitales. Tal y como plantea Lev Manovich en *El software toma el mando*, el ordenador ya no funciona únicamente como una herramienta técnica, sino como un metamedio capaz de integrar y transformar medios anteriores mediante procesos de hibridación.
+Lev Manovich lleva años argumentando que el ordenador no es solo una herramienta, sino un metamedio capaz de absorber y transformar todos los medios anteriores. En *El software toma el mando* desarrolla la idea de hibridación: el proceso por el que distintos medios no simplemente coexisten en pantalla, sino que se fusionan a nivel estructural hasta generar algo nuevo. No es lo mismo que multimedia, donde los medios se presentan juntos pero siguen siendo reconocibles por separado.
 
-En este contexto, la hibridación no debe confundirse con la simple coexistencia de medios (multimedia), sino con su fusión a nivel estructural y funcional. Como señala Manovich:
+La distinción importa. Como explica el propio Manovich:
 
-> “Un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaces ya existentes.”  
+> "Un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaces ya existentes."  
 > — Lev Manovich, *El software toma el mando*
 
-Esta idea permite entender la hibridación como un proceso en el que técnicas, interfaces y lenguajes de distintos medios se combinan para generar nuevas formas de experiencia cultural coherente.
+A esto añade el concepto de *deep remixability* o remixabilidad profunda: no se trata solo de combinar contenidos de medios distintos, sino de mezclar sus técnicas, estructuras y lógicas internas para crear algo cualitativamente diferente (Manovich, 2007). Esta idea es el hilo conductor de los dos casos que analizo aquí.
 
-Los dos casos escogidos para este ensayo son VRChat y Hatsune Miku. Ambos representan formas contemporáneas de hibridación donde se combinan videojuegos, redes sociales, inteligencia de software, cultura audiovisual y performance digital para generar nuevas formas de identidad y representación en el entorno digital.
+He escogido VRChat y Hatsune Miku porque los dos me parecen ejemplos muy claros de hibridación en el sentido que Manovich describe, y también porque son fenómenos que conocía de antes y sobre los que tenía curiosidad de reflexionar con esta perspectiva. Ninguno de los dos encaja en las categorías habituales, y eso es precisamente lo interesante.
 
 ---
 
 # Re-descubriendo la hibridación: VRChat
 
-Cuando se habla de realidad virtual, normalmente se piensa en videojuegos inmersivos o en tecnologías futuristas. Sin embargo, plataformas como VRChat demuestran que la realidad virtual actual funciona también como un espacio social y cultural donde distintos medios digitales se fusionan entre sí. Desde la perspectiva de Lev Manovich, VRChat puede entenderse como un claro ejemplo de hibridación de medios, ya que combina técnicas e interfaces procedentes de videojuegos, redes sociales, streaming, animación digital y representación virtual para crear una experiencia nueva y coherente.
+Cuando se habla de realidad virtual, la primera imagen que viene a la cabeza suele ser la de alguien con unas gafas jugando a un videojuego. Pero VRChat es otra cosa. Lanzada en 2017, es una plataforma donde la gente se reúne mediante avatares personalizados en mundos tridimensionales creados por la propia comunidad. Y lo que la hace interesante para este ensayo es que, vista con las gafas de Manovich, encaja perfectamente en la idea de hibridación: no es un videojuego, ni una red social, ni una herramienta de streaming, pero tiene algo de todo eso a la vez y lo mezcla de una forma que genera algo nuevo.
 
-VRChat fue lanzado en 2017 y permite a los usuarios interactuar mediante avatares personalizados dentro de mundos virtuales creados por la comunidad. Aunque puede utilizarse desde ordenador, la experiencia está claramente diseñada alrededor de dispositivos de realidad virtual y seguimiento corporal. El usuario no solo observa una interfaz en pantalla, sino que “habita” el espacio digital mediante movimiento, voz y presencia tridimensional.
+En *El software toma el mando*, Manovich explica que la hibridación no consiste en poner medios distintos uno al lado del otro, sino en fusionarlos hasta que "las interfaces, técnicas y presuposiciones más básicas de diversos medios se unen y dan pie a nuevas gestalts de medios". Eso es exactamente lo que pasa en VRChat. El usuario no navega con ventanas ni menús: se mueve corporalmente por un espacio, habla con su propia voz, gesticula con su cuerpo. La interfaz deja de ser algo externo y se convierte en un entorno habitable. Investigaciones académicas sobre la plataforma confirman que esto genera "nuevas posibilidades para que las personas representen su yo esencial", con formas de autoexpresión que no serían posibles en el mundo físico (Montemorano, 2020).
 
-Aquí aparece una de las ideas fundamentales de Manovich: la hibridación no consiste únicamente en juntar medios diferentes, sino en fusionarlos hasta generar un nuevo lenguaje cultural. En palabras del autor, “las interfaces, técnicas y presuposiciones más básicas de diversos medios se unen y dan pie a nuevas gestalts de medios”. Precisamente eso ocurre en VRChat. No funciona simplemente como un videojuego con chat de voz, ni como una red social en tres dimensiones. La experiencia híbrida surge cuando todas esas partes dejan de percibirse de manera independiente.
+El tema de la identidad es quizás lo que más me llama la atención de VRChat. En plataformas como Instagram o Discord seguimos siendo, en el fondo, una foto y un nombre. En VRChat, el avatar es otra cosa: una extensión performativa del usuario. La gente puede ir con un personaje anime, una criatura fantástica o un robot, y usar eso para construir una identidad digital que no tiene por qué coincidir con la física. Estudios recientes muestran que el sistema de rastreo corporal completo (*full-body tracking*), combinado con el anonimato de la plataforma, permite expresar emociones y adoptar personalidades completamente distintas a las de la vida real, generando un intercambio más abierto y diverso (Frontiers in Virtual Reality, 2024). La hibridación aquí no es solo tecnológica: es social.
 
-Uno de los aspectos más interesantes es cómo VRChat transforma la interacción social en internet. En plataformas tradicionales como Discord o Instagram, la comunicación continúa siendo principalmente textual o audiovisual. El usuario escribe mensajes, comparte imágenes o habla mediante llamadas de voz. En cambio, VRChat introduce un modelo diferente basado en la presencia espacial. Los usuarios ocupan un espacio virtual mediante un avatar capaz de moverse, gesticular e interactuar físicamente con otros cuerpos digitales.
+Este aspecto se ve muy bien en el fenómeno de los VTubers, que usan VRChat para hacer directos en Twitch o YouTube con avatares y captura de movimiento. Aquí se apila una nueva capa de hibridación: streaming, performance digital, cultura anime y realidad virtual se mezclan en una misma experiencia mediática. No es casualidad que solo una muestra de 300 creadores virtuales generara más de 15.000 millones de visualizaciones en YouTube durante 2024 (Telangana Today, 2025). Es el tipo de dato que ilustra bien lo que Manovich llamaría el surgimiento de una nueva especie de medio.
 
-Esta idea conecta directamente con otra de las estrategias de hibridación señaladas por Manovich: la creación de nuevas formas de navegación e interacción. El usuario ya no navega únicamente mediante ventanas y menús tradicionales, sino que se desplaza corporalmente por espacios virtuales. La interfaz deja de sentirse externa y pasa a convertirse en un entorno habitable.
+La dimensión comunitaria también es clave. Los usuarios no solo consumen VRChat: diseñan mundos, avatares y objetos usando herramientas como Unity. La plataforma funciona como un ecosistema en constante expansión donde los usuarios son también creadores (Frontiers in Virtual Reality, 2024). Esto conecta con el concepto de *remixabilidad profunda* de Manovich: no se remezclan solo contenidos, sino las lógicas y técnicas de medios distintos. Un buen ejemplo es el festival SANRIO en VRChat, donde la empresa trasladó su parque temático físico Sanrio Puroland al entorno virtual, incluyendo cantantes virtuales y VTubers (VIVE Blog, 2024). Lo físico y lo digital se mezclan de una forma que ninguno de los dos medios por separado haría posible.
 
-Además, VRChat modifica profundamente el concepto de identidad digital. En internet siempre han existido formas de representación virtual, como fotografías de perfil o nombres de usuario, pero en VRChat el avatar se convierte en una extensión performativa del propio usuario. Muchas personas utilizan personajes anime, criaturas fantásticas o modelos completamente irreales para construir una identidad digital alternativa. El avatar ya no funciona solo como decoración visual, sino como representación híbrida entre cuerpo, personaje y presencia social.
-
-Este aspecto resulta especialmente visible en fenómenos como los VTubers. Muchos creadores de contenido utilizan VRChat para realizar directos en Twitch o vídeos en YouTube utilizando avatares virtuales y sistemas de captura de movimiento. Aquí se produce una nueva capa de hibridación donde streaming, performance digital, cultura anime y realidad virtual terminan fusionándose en una misma experiencia mediática.
-
-Otro elemento importante es el papel de la comunidad dentro de la plataforma. Los propios usuarios diseñan mundos virtuales, objetos y avatares mediante herramientas como Unity. Esto convierte VRChat en un entorno participativo y en constante expansión. La plataforma deja de ser un producto cerrado para funcionar como un ecosistema colaborativo donde los usuarios también son creadores.
-
-Durante la pandemia de COVID-19, por ejemplo, VRChat se convirtió en un espacio utilizado para conciertos virtuales, eventos sociales, reuniones e incluso fiestas digitales. Esto demuestra cómo la plataforma funciona como una nueva forma de espacio híbrido entre lo físico y lo virtual. Muchas de estas experiencias no podrían entenderse únicamente como videojuegos, porque mezclan interacción social, espectáculo audiovisual y presencia digital en tiempo real.
-
-Desde la perspectiva de Manovich, VRChat representa una nueva “especie de medio” nacida directamente del software cultural. No es únicamente la suma de videojuegos, redes sociales y realidad virtual, sino un entorno donde todos esos medios se transforman mutuamente para crear una experiencia diferente.
-
-Personalmente, considero que VRChat refleja muy bien hacia dónde evolucionan actualmente los espacios digitales. Lo más interesante no es solo la tecnología de realidad virtual, sino cómo el software permite construir nuevas formas de identidad, interacción y representación social imposibles en medios anteriores. Igual que plantea Manovich, el software cultural ya no se limita a reproducir medios existentes, sino que crea nuevas formas de experiencia híbrida que cambian nuestra relación con el entorno digital.
+VRChat es, en definitiva, una de esas plataformas que hace que las categorías habituales se queden cortas. No encaja en ninguna caja: no es un juego, no es una red social, no es un espacio de entretenimiento convencional. Es las tres cosas a la vez y, al serlo, se convierte en algo diferente. Eso es exactamente lo que Manovich tenía en mente cuando hablaba de las nuevas especies de medio que el software hace posibles.
 
 ---
 
@@ -64,58 +54,64 @@ Personalmente, considero que VRChat refleja muy bien hacia dónde evolucionan ac
 
 ![Hatsune Miku Logo](https://www.nippon.com/es/ncommon/contents/japan-topics/560508/560508.jpg)
 
-Cuando se habla de Hatsune Miku, muchas personas la identifican simplemente como una cantante virtual japonesa o como un personaje relacionado con el anime. Sin embargo, desde la perspectiva de Lev Manovich, Hatsune Miku representa un caso mucho más complejo e interesante: una auténtica hibridación de medios donde música, software, animación digital, cultura participativa y espectáculo audiovisual se fusionan para crear una nueva forma de experiencia cultural.
+Cuando alguien escucha hablar de Hatsune Miku por primera vez, tiende a clasificarla rápido: "ah, esa cantante virtual japonesa". Pero reducirla a eso es perderse lo más interesante. Desde la perspectiva de Manovich, Hatsune Miku es un caso extraordinario de hibridación donde música, software, animación digital y cultura participativa se fusionan en algo que no encaja en ninguna categoría anterior.
 
-Hatsune Miku apareció en 2007 como parte del software Vocaloid desarrollado por Yamaha y distribuido por Crypton Future Media. El programa permitía sintetizar voz mediante fragmentos grabados previamente por una actriz real. De esta manera, cualquier usuario podía crear canciones escribiendo melodías y letras que posteriormente eran interpretadas por una voz artificial. Sin embargo, el fenómeno de Hatsune Miku terminó yendo mucho más allá de un simple software de síntesis vocal.
+Miku apareció en 2007 como parte del software Vocaloid, desarrollado por Yamaha y distribuido por Crypton Future Media. Técnicamente, era un sintetizador de voz: el usuario escribía una melodía y una letra, y el programa las convertía en una interpretación vocal usando fragmentos pregrabados por la actriz de doblaje Saki Fujita. Su nombre, Hatsune Miku (初音ミク), significa "el primer sonido del futuro", y ese nombre resultó más que acertado (Root-Nation, 2025). Porque lo que empezó como una herramienta de producción musical acabó convirtiéndose en un fenómeno cultural que cruza fronteras entre la música, el anime, los videojuegos y el espectáculo en directo.
 
-Siguiendo las ideas de Manovich, la hibridación aparece cuando las propiedades y técnicas de diferentes medios dejan de funcionar por separado y pasan a integrarse dentro de una nueva estructura coherente. Precisamente eso ocurre con Hatsune Miku. El personaje no pertenece únicamente al ámbito musical, ni tampoco al anime o a los videojuegos. Su existencia depende de la fusión de todos esos medios mediante el software.
+Aquí es donde entra Manovich. La hibridación, para él, no ocurre cuando pones distintos medios uno al lado del otro, sino cuando sus técnicas y lógicas se fusionan hasta crear algo nuevo. Hatsune Miku no es música más una imagen de anime más un software: es un personaje cuya existencia depende de que todos esos elementos funcionen juntos. Desde su nacimiento, atrajo tanto a músicos amateurs como a fans del anime, formando una comunidad que encontró en ella un punto de encuentro para múltiples culturas mediáticas (Ethnomusicology Review, 2017). Eso es exactamente la gestalt de medios de la que habla Manovich: el todo que no puede descomponerse en partes sin dejar de ser lo que es.
 
-Uno de los aspectos más interesantes es cómo Hatsune Miku transforma la idea tradicional de artista musical. Durante décadas, la industria musical se basó en la presencia física de cantantes reales que actuaban frente al público. En cambio, Hatsune Miku existe únicamente como representación digital. Su voz es sintetizada mediante software, su cuerpo es una animación tridimensional y sus conciertos se realizan mediante proyecciones holográficas sincronizadas con música y efectos visuales.
+Uno de los aspectos que más me parece reseñable es lo que hace con la idea de artista musical. Desde siempre, la industria de la música se ha construido sobre la figura de una persona real que actúa en directo. Miku invierte eso por completo: su voz es sintética, su cuerpo es una animación 3D y sus conciertos son proyecciones sincronizadas con música en vivo. En 2024 actuó en Coachella, uno de los festivales más grandes del mundo, proyectada sobre una pantalla gigante ante miles de personas (The-O Network, 2024). Una entidad puramente digital ocupando el mismo espacio que los artistas físicos. Lo que Manovich llama un nuevo formato de representación en estado puro: Miku no imita a una cantante humana, propone una forma de presencia artística que solo existe gracias al software.
 
-Aquí aparece una de las estrategias de hibridación que describe Manovich: la creación de nuevos formatos de representación. Hatsune Miku no intenta imitar completamente a una cantante humana, sino que propone una nueva forma de presencia artística basada directamente en el entorno digital. El público no percibe el concierto como una simple proyección tecnológica, sino como una experiencia coherente donde música, animación y software funcionan conjuntamente.
+El otro gran pilar es la participación de la comunidad. Crypton posicionó a Miku desde el principio como una plataforma abierta, no como una franquicia cerrada. Eso lo cambió todo. Miles de usuarios empezaron a crear canciones, ilustraciones, animaciones y coreografías, compartidas en plataformas como Nico Nico Douga y YouTube. En los primeros años ya circulaban más de 100.000 canciones creadas por fans (Root-Nation, 2025). Los investigadores describen el resultado como "una ecología en evolución de técnicos de software, productores y miembros del público que colaboran para hacer música Vocaloid" (NHSJS, 2024). Los usuarios no son consumidores: son coautores de un personaje que se reescribe constantemente. Es la lógica del software colaborativo aplicada a la cultura popular, algo muy cercano a lo que Manovich describe cuando habla del software como motor de la creación colectiva.
 
-Además, la estética anime del personaje resulta fundamental para entender su impacto cultural. El diseño visual de Hatsune Miku conecta directamente con la cultura otaku y con las formas de representación propias del manga y la animación japonesa. Esto provoca que el personaje funcione simultáneamente como artista musical, icono visual y figura cultural dentro de internet.
+El resultado de todo esto es una expansión hacia múltiples formatos: videojuegos rítmicos, campañas publicitarias, realidad aumentada, actuaciones internacionales. En 2024 generó más de 5.500 millones de visualizaciones solo en YouTube (Telangana Today, 2025). Una identidad puramente digital que domina espacios que siempre habían pertenecido a artistas humanos.
 
-Otro elemento clave es la participación de la comunidad. A diferencia de los artistas tradicionales, Hatsune Miku no depende únicamente de una empresa o de un único equipo creativo. Miles de usuarios crean continuamente canciones, ilustraciones, animaciones y coreografías relacionadas con el personaje. Esto convierte a Hatsune Miku en un claro ejemplo de cultura participativa y crowdsourcing, conceptos muy relacionados con la evolución del software cultural trabajada durante la asignatura.
-
-En este sentido, los usuarios dejan de ser únicamente consumidores y pasan también a convertirse en creadores. Muchas de las canciones más populares de Hatsune Miku fueron producidas por artistas independientes que compartieron su trabajo en plataformas como Nico Nico Douga o YouTube. Igual que ocurre en proyectos de software colaborativo, el personaje evoluciona constantemente gracias a las aportaciones de la comunidad.
-
-También resulta interesante observar cómo Hatsune Miku se expande hacia otros formatos híbridos. Además de la música y los conciertos, el personaje aparece en videojuegos rítmicos, campañas publicitarias, experiencias de realidad aumentada y retransmisiones online. Esto provoca que Hatsune Miku funcione como un ecosistema cultural conectado donde distintos medios se mezclan continuamente.
-
-Sin embargo, es importante diferenciar multimedia e hibridación, algo en lo que insiste constantemente Manovich. Hatsune Miku no es simplemente una suma de música, imágenes y animación mostradas simultáneamente. Lo realmente relevante es cómo todos esos elementos se transforman mutuamente mediante el software para generar una nueva experiencia imposible de separar en partes independientes.
-
-Desde la perspectiva de Manovich, Hatsune Miku puede entenderse como una nueva “especie de medio” nacida directamente del software cultural. No pertenece completamente a la música, al anime ni a los videojuegos, sino que surge precisamente de la fusión entre todos ellos.
-
-Personalmente, considero que Hatsune Miku representa muy bien cómo el software ha cambiado la manera en la que entendemos la cultura popular y la identidad artística. Lo más interesante no es únicamente la existencia de una cantante virtual, sino cómo millones de personas participan activamente en una experiencia cultural construida completamente mediante medios digitales. Igual que plantea Manovich, el software cultural no solo reproduce medios anteriores, sino que crea nuevas formas de representación, interacción y participación imposibles fuera del entorno digital.
+Lo que más me llama la atención de Hatsune Miku, mirándolo desde fuera, es que su existencia anticipa muchas de las discusiones que hoy tenemos sobre creatividad e inteligencia artificial. Mucho antes de que "arte generado por IA" se pusiera de moda, Miku ya mostraba que la colaboración entre humanos y software podía producir cultura a gran escala (Root-Nation, 2025). Y todo ello con una comunidad que la sostiene, la reinventa y la mantiene viva. Eso, para Manovich, sería la prueba definitiva: una nueva especie de medio que no existía antes del software y que no puede entenderse sin él.
 
 ---
 
 # Conclusión
 
-VRChat y Hatsune Miku representan dos formas distintas de hibridación mediática descritas por Lev Manovich. En ambos casos, el software no solo combina medios existentes, sino que los transforma en nuevas estructuras culturales coherentes.
+VRChat y Hatsune Miku son dos formas muy distintas de llegar al mismo sitio: la hibridación mediática en el sentido que describe Manovich. Los dos fusionan técnicas, interfaces y lógicas de medios distintos para crear algo que no puede descomponerse en partes sin perder su esencia.
 
-VRChat se centra en la hibridación de la interacción y la presencia social en entornos virtuales, mientras que Hatsune Miku se centra en la hibridación de la representación musical y la identidad cultural digital.
+VRChat redefine la interacción social y la identidad digital en entornos virtuales. Hatsune Miku redefine la autoría musical y la presencia artística. En ninguno de los dos casos estamos hablando de multimedia: estamos hablando de medios que se transforman mutuamente gracias al software hasta producir algo nuevo.
 
-En ambos casos no hablamos de multimedia, sino de auténtica fusión de medios donde las fronteras entre técnicas, interfaces y lenguajes desaparecen.
-
-Estos ejemplos muestran cómo el software cultural ha evolucionado hasta convertirse en un espacio donde emergen nuevas formas de identidad, comunicación y creación colectiva.
+Lo que me parece más valioso de estos dos ejemplos es que, en los dos, la comunidad de usuarios no es algo secundario: es el motor. Tanto VRChat como Hatsune Miku existen y evolucionan porque hay gente que los construye, los reinventa y los mantiene vivos. Eso encaja perfectamente con la idea de Manovich sobre el software cultural como espacio de creación colectiva, y creo que son dos casos que él podría haber incluido perfectamente en una segunda edición de su libro.
 
 ---
 
 # Referencias y Bibliografía
 
-## Bibliografía
+## Bibliografía principal
 
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+- Manovich, Lev. (2007). *Understanding Hybrid Media*. Publicado en Betti-Sue Hertz (ed.), *Animated Paintings*. San Diego: San Diego Museum of Art. Disponible en: http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 - Gea, M. (2022). *Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Barcelona: Editorial UOC.
 
-## Webgrafía
+## Artículos y estudios académicos
+
+- Montemorano, Cristina. (2020). *Body Language: Avatars, Identity Formation, and Communicative Interaction in VRChat*. University of Mary Washington Student Research. Disponible en: https://scholar.umw.edu/student_research/382
+- Kim, Andrea. (2022). *Virtual Worldmaking: A Phantasmal Media Approach to VRChat*. MIT Comparative Media Studies. Disponible en: https://cms.mit.edu/wp/wp-content/uploads/2022/03/553835918-Andrea-Kim-Virtual-Worldmaking-A-Phantasmal-Media-Approach-to-VRChat.pdf
+- Frontiers in Virtual Reality. (2022). *Digital body, identity and privacy in social virtual reality: A systematic review*. Disponible en: https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.974652/full
+- Frontiers in Virtual Reality. (2024). *Gender expression and gender identity in virtual reality: avatars, role-adoption, and social interaction in VRChat*. Disponible en: https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2024.1305758/full
+- NHSJS (National High School Journal of Science). (2024). *The Vocaloid Phenomenon: Deconstruction of Music Culture Through Hatsune Miku*. Disponible en: https://nhsjs.com/2024/the-vocaloid-phenomenon-deconstruction-of-music-culture-through-hatsune-miku/
+- Ethnomusicology Review, UCLA. (2017). *Thoughts on Convergence and Divergence in Vocaloid Culture (and Beyond)*. Disponible en: https://ethnomusicologyreview.ucla.edu/content/thoughts-convergence-and-divergence-vocaloid-culture-and-beyond
+- Universidad de Sevilla (IDUS). (2023). *Hatsune Miku y fenómeno Vocaloid: factores socioculturales del auge de los ídolos virtuales*. Disponible en: https://idus.us.es/server/api/core/bitstreams/42e0460f-1733-4465-a928-da117bc98b28/content
+
+## Fuentes de referencia digital
+
+- Root-Nation.com. (2025). *Vocaloids e IA: Cómo Hatsune Miku redefinió la industria musical*. Disponible en: https://es.root-nation.com/en/articles-en/tech-en/en-vocaloids-and-ai-hatsune-miku/
+- The-O Network. (2024). *YOASOBI and Hatsune Miku at Coachella 2024 Report*. Disponible en: https://www.t-ono.net/concerts/yoasobi-and-hatsune-miku-at-coachella-2024-report.html
+- Telangana Today. (2025). *Who are 'VTubers' taking content creation space by storm? YouTube's 'Culture & Trends Report – 2024' explains*. Disponible en: https://telanganatoday.com/who-are-vtubers-taking-content-creation-space-by-storm-youtubes-culture-trends-report-2024-explains
+- VIVE Blog. (2024). *SANRIO Fest [2024]: VRChat, VTubers, and Collectibles!* Disponible en: https://blog.vive.com/us/sanrio-virtual-festival-2024-a-new-dimension-of-fun-in-vrchat-vtubers-lineup-and-collaborative-collectibles/
+- Manovich, Lev. (2006). *Deep Remixability*. Remix Theory. Disponible en: http://remixtheory.net/?p=61
+
+## Webgrafía de las plataformas
 
 - https://hello.vrchat.com/
 - https://docs.vrchat.com/
 - https://ec.crypton.co.jp/pages/prod/virtualsinger
 - https://vocaloid.fandom.com/wiki/Hatsune_Miku
-- http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 
 ---
 

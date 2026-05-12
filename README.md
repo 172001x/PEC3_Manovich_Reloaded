@@ -57,6 +57,7 @@ Desde la perspectiva de Manovich, VRChat puede entenderse como una nueva especie
 # Re-descubriendo la hibridación: Hatsune Miku
 
 ![Hatsune Miku](https://upload.wikimedia.org/wikipedia/commons/4/4f/Hatsune_Miku_logo.svg)
+![Hatsune Miku Logo](https://www.nippon.com/es/ncommon/contents/japan-topics/560508/560508.jpg)
 
 Hatsune Miku es uno de los ejemplos más claros de hibridación cultural basada en software. Aunque suele describirse como una cantante virtual, en realidad representa una convergencia entre música, animación, software vocal, videojuegos y cultura participativa.
 

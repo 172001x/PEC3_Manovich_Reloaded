@@ -8,6 +8,8 @@
 
 ---
 
+![Banner](images/banner.png)
+
 ## Índice
 
 1. [Introducción](#introducción)

@@ -37,7 +37,7 @@ He escogido VRChat y Hatsune Miku porque los dos me parecen ejemplos muy claros 
 ---
 
 # Re-descubriendo la hibridación: VRChat
-![VRChat Logo](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438100/capsule_616x353.jpg?t=1762366454)
+![VRChat Logo](images/vrchat.png)
 
 Cuando se habla de realidad virtual, la primera imagen que viene a la cabeza suele ser la de alguien con unas gafas jugando a un videojuego. Pero VRChat es otra cosa. Lanzada en 2017, es una plataforma donde la gente se reúne mediante avatares personalizados en mundos tridimensionales creados por la propia comunidad. Y lo que la hace interesante para este ensayo es que, vista con las gafas de Manovich, encaja perfectamente en la idea de hibridación: no es un videojuego, ni una red social, ni una herramienta de streaming, pero tiene algo de todo eso a la vez y lo mezcla de una forma que genera algo nuevo.
 

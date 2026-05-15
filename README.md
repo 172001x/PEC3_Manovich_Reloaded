@@ -130,7 +130,7 @@ La selección de los casos analizados, el enfoque del análisis, la interpretaci
 
 ## Licencia
 
-Este repositorio y su contenido han sido desarrollados bajo la licencia Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0). Se permite compartir, copiar, redistribuir y adaptar el material, siempre que se reconozca adecuadamente la autoría original y las obras derivadas se distribuyan bajo la misma licencia.
+Este repositorio y su contenido han sido desarrollados bajo la licencia Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
 
 Las imágenes, recursos audiovisuales y marcas mencionadas en este ensayo pertenecen a sus respectivos propietarios y han sido utilizadas únicamente con fines educativos y académicos dentro del contexto de esta práctica universitaria.
 

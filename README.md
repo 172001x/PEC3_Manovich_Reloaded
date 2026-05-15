@@ -51,11 +51,9 @@ La dimensión de la comunidad es clave. Los usuarios no solo consumen VRChat: di
 
 VRChat es, en definitiva, una de esas plataformas que hace que las categorías habituales se queden cortas. No encaja en ninguna caja: no es un juego, no es una red social, no es un espacio de entretenimiento convencional. Es las tres cosas a la vez y, al serlo, se convierte en algo diferente. Eso es exactamente lo que Manovich tenía en mente cuando hablaba de las nuevas especies de medio que el software hace posibles.
 
-### Trailer de lanzamiento de VRChat
+### Ejemplo visual: tráiler oficial de VRChat
 
-[![VRChat Trailer](https://img.youtube.com/vi/jhl5afLEKdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=jhl5afLEKdo)
-
----
+[![VRChat Trailer](https://img.youtube.com/vi/PWLPw4RE9Ig/maxresdefault.jpg)](https://www.youtube.com/watch?v=PWLPw4RE9Ig)
 
 # Re-descubriendo la hibridación: Hatsune Miku
 
@@ -71,7 +69,7 @@ Uno de los aspectos que más me parece reseñable es lo que hace con la idea de 
 
 ### Ejemplo visual: concierto holográfico de Hatsune Miku
 
-[![Hatsune Miku Live Concert](https://www.youtube.com/watch?v=jhl5afLEKdo)
+[![Hatsune Miku Live Concert](https://img.youtube.com/vi/jhl5afLEKdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=jhl5afLEKdo)
 
 El otro gran pilar es la participación de la comunidad. Crypton posicionó a Miku desde el principio como una plataforma abierta, no como una franquicia cerrada. Eso lo cambió todo. Miles de usuarios empezaron a crear canciones, ilustraciones, animaciones y coreografías, compartidas en plataformas como Nico Nico Douga y YouTube. En los primeros años ya circulaban más de 100.000 canciones creadas por fans (Root-Nation, 2025). Los investigadores describen el resultado como "una ecología en evolución de técnicos de software, productores y miembros del público que colaboran para hacer música Vocaloid" (NHSJS, 2024). Los usuarios no son consumidores: son coautores de un personaje que se reescribe constantemente. Es la lógica del software colaborativo aplicada a la cultura popular, algo muy cercano a lo que Manovich describe cuando habla del software como motor de la creación colectiva.
 

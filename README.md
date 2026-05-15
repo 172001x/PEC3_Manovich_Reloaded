@@ -77,7 +77,7 @@ Lo que más me llama la atención de Hatsune Miku, mirándolo desde fuera, es qu
 
 ---
 
-# Conclusión
+# Conclusiones
 
 VRChat y Hatsune Miku son dos formas muy distintas de llegar al mismo sitio: la hibridación mediática en el sentido que describe Manovich. Los dos fusionan técnicas, interfaces y lógicas de medios distintos para crear algo que no puede descomponerse en partes sin perder su esencia.
 

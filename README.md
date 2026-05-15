@@ -122,10 +122,15 @@ Lo que me parece más valioso de estos dos ejemplos es que, en los dos, la comun
 
 ## Declaración sobre el uso de IA
 
-Para la realización de esta PEC se han utilizado herramientas de inteligencia artificial como apoyo puntual durante el proceso de elaboración y presentación del proyecto.
+Para la realización de esta PEC se han utilizado herramientas de inteligencia artificial como apoyo puntual durante el proceso de elaboración siguiendo la normativa de la asignatura.
 
 Se ha utilizado ChatGPT para la generación de la imagen de cabecera del ensayo y Claude como apoyo en la corrección y mejora de la redacción en Markdown, así como en la organización y gestión de las fuentes y referencias utilizadas.
 
 La selección de los casos analizados, el enfoque del análisis, la interpretación de los conceptos de hibridación de Lev Manovich y los contenidos principales del ensayo —incluyendo introducción, desarrollo y conclusiones— son de autoría propia.
 
+## Licencia
+
+Este repositorio y su contenido han sido desarrollados bajo la licencia Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0). Se permite compartir, copiar, redistribuir y adaptar el material, siempre que se reconozca adecuadamente la autoría original y las obras derivadas se distribuyan bajo la misma licencia.
+
+Las imágenes, recursos audiovisuales y marcas mencionadas en este ensayo pertenecen a sus respectivos propietarios y han sido utilizadas únicamente con fines educativos y académicos dentro del contexto de esta práctica universitaria.
 

@@ -30,7 +30,7 @@ La distinción importa. Como explica el propio Manovich:
 > "Un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaces ya existentes."  
 > — Lev Manovich, *El software toma el mando*
 
-A esto añade el concepto de *deep remixability* o remixabilidad profunda: no se trata solo de combinar contenidos de medios distintos, sino de mezclar sus técnicas, estructuras y lógicas internas para crear algo cualitativamente diferente (Manovich, 2007). Esta idea es el hilo conductor de los dos casos que analizo aquí.
+No se trata solo de combinar contenidos de medios distintos, sino de mezclar sus técnicas, estructuras y lógicas internas para crear algo cualitativamente diferente. Esta idea es el hilo conductor de los dos casos que analizo aquí.
 
 He escogido VRChat y Hatsune Miku porque los dos me parecen ejemplos muy claros de hibridación en el sentido que Manovich describe, y también porque son fenómenos que conocía de antes y sobre los que tenía curiosidad de reflexionar con esta perspectiva. Ninguno de los dos encaja en las categorías habituales, y eso es precisamente lo interesante.
 
@@ -92,7 +92,6 @@ Lo que me parece más valioso de estos dos ejemplos es que, en los dos, la comun
 ## Bibliografía principal
 
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
-- Manovich, Lev. (2007). *Understanding Hybrid Media*. Publicado en Betti-Sue Hertz (ed.), *Animated Paintings*. San Diego: San Diego Museum of Art. Disponible en: http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 - Gea, M. (2022). *Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Barcelona: Editorial UOC.
 
 ## Artículos y estudios académicos

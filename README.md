@@ -97,7 +97,6 @@ Lo que me parece más valioso de estos dos ejemplos es que, en los dos, la comun
 
 ## Artículos y estudios académicos
 
-- Kim, Andrea. (2022). *Virtual Worldmaking: A Phantasmal Media Approach to VRChat*. MIT Comparative Media Studies. Disponible en: https://cms.mit.edu/wp/wp-content/uploads/2022/03/553835918-Andrea-Kim-Virtual-Worldmaking-A-Phantasmal-Media-Approach-to-VRChat.pdf
 - Frontiers in Virtual Reality. (2022). *Digital body, identity and privacy in social virtual reality: A systematic review*. Disponible en: https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.974652/full
 - Frontiers in Virtual Reality. (2024). *Gender expression and gender identity in virtual reality: avatars, role-adoption, and social interaction in VRChat*. Disponible en: https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2024.1305758/full
 - NHSJS (National High School Journal of Science). (2024). *The Vocaloid Phenomenon: Deconstruction of Music Culture Through Hatsune Miku*. Disponible en: https://nhsjs.com/2024/the-vocaloid-phenomenon-deconstruction-of-music-culture-through-hatsune-miku/

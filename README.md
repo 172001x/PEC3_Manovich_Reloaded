@@ -51,6 +51,10 @@ La dimensión de la comunidad es clave. Los usuarios no solo consumen VRChat: di
 
 VRChat es, en definitiva, una de esas plataformas que hace que las categorías habituales se queden cortas. No encaja en ninguna caja: no es un juego, no es una red social, no es un espacio de entretenimiento convencional. Es las tres cosas a la vez y, al serlo, se convierte en algo diferente. Eso es exactamente lo que Manovich tenía en mente cuando hablaba de las nuevas especies de medio que el software hace posibles.
 
+### Trailer de lanzamiento de VRChat
+
+[![VRChat Trailer](https://img.youtube.com/vi/jhl5afLEKdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=jhl5afLEKdo)
+
 ---
 
 # Re-descubriendo la hibridación: Hatsune Miku

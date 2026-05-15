@@ -17,7 +17,8 @@
 3. [Re-descubriendo la hibridación: Hatsune Miku](#re-descubriendo-la-hibridación-hatsune-miku)
 4. [Conclusión](#conclusión)
 5. [Referencias y Bibliografía](#referencias-y-bibliografía)
-6. [Licencia](#licencia)
+6. [Declaración sobre el uso de IA](#declaración-sobre-el-uso-de-IA)
+7. [Licencia](#licencia)
 
 ---
 

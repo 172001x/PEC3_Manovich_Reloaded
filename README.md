@@ -83,7 +83,7 @@ VRChat y Hatsune Miku son dos formas muy distintas de llegar al mismo sitio: la 
 
 VRChat redefine la interacción social y la identidad digital en entornos virtuales. Hatsune Miku redefine la autoría musical y la presencia artística. En ninguno de los dos casos estamos hablando de multimedia: estamos hablando de medios que se transforman mutuamente gracias al software hasta producir algo nuevo.
 
-Lo que me parece más valioso de estos dos ejemplos es que, en los dos, la comunidad de usuarios no es algo secundario: es el motor. Tanto VRChat como Hatsune Miku existen y evolucionan porque hay gente que los construye, los reinventa y los mantiene vivos. Eso encaja perfectamente con la idea de Manovich sobre el software cultural como espacio de creación colectiva, y creo que son dos casos que él podría haber incluido perfectamente en una segunda edición de su libro.
+Lo que me parece más valioso de estos dos ejemplos es que, en los dos, la comunidad de usuarios no es algo secundario: es el motor. Tanto VRChat como Hatsune Miku existen y evolucionan porque hay gente que los construye, los reinventa y los mantiene vivos. 
 
 ---
 

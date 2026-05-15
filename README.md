@@ -71,7 +71,7 @@ Uno de los aspectos que más me parece reseñable es lo que hace con la idea de 
 
 ### Ejemplo visual: concierto holográfico de Hatsune Miku
 
-[![Hatsune Miku Live Concert](https://img.youtube.com/vi/jhl5afLEKdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=jhl5afLEKdo)
+[![Hatsune Miku Live Concert](https://www.youtube.com/watch?v=jhl5afLEKdo)
 
 El otro gran pilar es la participación de la comunidad. Crypton posicionó a Miku desde el principio como una plataforma abierta, no como una franquicia cerrada. Eso lo cambió todo. Miles de usuarios empezaron a crear canciones, ilustraciones, animaciones y coreografías, compartidas en plataformas como Nico Nico Douga y YouTube. En los primeros años ya circulaban más de 100.000 canciones creadas por fans (Root-Nation, 2025). Los investigadores describen el resultado como "una ecología en evolución de técnicos de software, productores y miembros del público que colaboran para hacer música Vocaloid" (NHSJS, 2024). Los usuarios no son consumidores: son coautores de un personaje que se reescribe constantemente. Es la lógica del software colaborativo aplicada a la cultura popular, algo muy cercano a lo que Manovich describe cuando habla del software como motor de la creación colectiva.
 

@@ -67,9 +67,9 @@ Aquí es donde entra Manovich. La hibridación, para él, no ocurre cuando pones
 
 Uno de los aspectos que más me parece reseñable es lo que hace con la idea de artista musical. Desde siempre, la industria de la música se ha construido sobre la figura de una persona real que actúa en directo. Miku invierte eso por completo: su voz es sintética, su cuerpo es una animación 3D y sus conciertos son proyecciones sincronizadas con música en vivo. En 2024 actuó en Coachella, uno de los festivales más grandes del mundo, proyectada sobre una pantalla gigante ante miles de personas (The-O Network, 2024). Una entidad puramente digital ocupando el mismo espacio que los artistas físicos. Lo que Manovich llama un nuevo formato de representación en estado puro: Miku no imita a una cantante humana, propone una forma de presencia artística que solo existe gracias al software.
 
-### Ejemplo visual: concierto holográfico de Hatsune Miku
+Concierto holográfico de Hatsune Miku
 
-[![Hatsune Miku Live Concert](https://img.youtube.com/vi/jhl5afLEKdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=jhl5afLEKdo)
+[![Hatsune Miku Concert](images/miku.gif)](https://www.youtube.com/watch?v=jhl5afLEKdo)
 
 El otro gran pilar es la participación de la comunidad. Crypton posicionó a Miku desde el principio como una plataforma abierta, no como una franquicia cerrada. Eso lo cambió todo. Miles de usuarios empezaron a crear canciones, ilustraciones, animaciones y coreografías, compartidas en plataformas como Nico Nico Douga y YouTube. En los primeros años ya circulaban más de 100.000 canciones creadas por fans (Root-Nation, 2025). Los investigadores describen el resultado como "una ecología en evolución de técnicos de software, productores y miembros del público que colaboran para hacer música Vocaloid" (NHSJS, 2024). Los usuarios no son consumidores: son coautores de un personaje que se reescribe constantemente. Es la lógica del software colaborativo aplicada a la cultura popular, algo muy cercano a lo que Manovich describe cuando habla del software como motor de la creación colectiva.
 

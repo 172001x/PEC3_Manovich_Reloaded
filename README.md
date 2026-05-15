@@ -51,9 +51,9 @@ La dimensión de la comunidad es clave. Los usuarios no solo consumen VRChat: di
 
 VRChat es, en definitiva, una de esas plataformas que hace que las categorías habituales se queden cortas. No encaja en ninguna caja: no es un juego, no es una red social, no es un espacio de entretenimiento convencional. Es las tres cosas a la vez y, al serlo, se convierte en algo diferente. Eso es exactamente lo que Manovich tenía en mente cuando hablaba de las nuevas especies de medio que el software hace posibles.
 
-### Ejemplo visual: tráiler oficial de VRChat
+### Tráiler oficial de VRChat
 
-[![VRChat Trailer](https://img.youtube.com/vi/PWLPw4RE9Ig/maxresdefault.jpg)](https://www.youtube.com/watch?v=PWLPw4RE9Ig)
+[![VRChat Trailer](images/vrchat.gif)](https://www.youtube.com/watch?v=PWLPw4RE9Ig)
 
 # Re-descubriendo la hibridación: Hatsune Miku
 
@@ -67,7 +67,7 @@ Aquí es donde entra Manovich. La hibridación, para él, no ocurre cuando pones
 
 Uno de los aspectos que más me parece reseñable es lo que hace con la idea de artista musical. Desde siempre, la industria de la música se ha construido sobre la figura de una persona real que actúa en directo. Miku invierte eso por completo: su voz es sintética, su cuerpo es una animación 3D y sus conciertos son proyecciones sincronizadas con música en vivo. En 2024 actuó en Coachella, uno de los festivales más grandes del mundo, proyectada sobre una pantalla gigante ante miles de personas (The-O Network, 2024). Una entidad puramente digital ocupando el mismo espacio que los artistas físicos. Lo que Manovich llama un nuevo formato de representación en estado puro: Miku no imita a una cantante humana, propone una forma de presencia artística que solo existe gracias al software.
 
-Concierto holográfico de Hatsune Miku
+### Concierto holográfico de Hatsune Miku
 
 [![Hatsune Miku Concert](images/miku.gif)](https://www.youtube.com/watch?v=jhl5afLEKdo)
 
